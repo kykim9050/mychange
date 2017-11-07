@@ -1,4 +1,4 @@
-DIRS = 
+DIRS = lib source main 
 .PHONY: all clean
 
 all:
