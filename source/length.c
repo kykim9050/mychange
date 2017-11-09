@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void length();
+void length()
+{
 if(l=1){
 	printf("what 'mm'?\n");
 	scanf("$lf", &x);
@@ -52,3 +53,4 @@ else if(l=8){
 else 
 	printf("wrong number!\n");
 
+}
