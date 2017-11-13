@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(){
+void volume(){
  int v;
  double a;
 

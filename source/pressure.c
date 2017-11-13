@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(){
+void pressure(){
  int p;
  double a;
 
