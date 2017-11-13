@@ -2,9 +2,11 @@
 
 void temp()
 {
+
 double c;
 
-if(t=1){
+if(t=1)
+{
 	printf("what '℃ '?\m");
 	scanf("%lf", &c);
 	printf("%lf ℃  is\n%lf ℉ \n%lf K",c, 1.8*c+32, c+273);
