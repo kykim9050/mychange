@@ -7,7 +7,7 @@ int main(){
 	int i;
 	printf("what kind of unit do you want? press number\n");
 	printf("1.length 2.weight 3.pressure 4.volume 5.temperature\n");
-	scanf("%d",&i)
+	scanf("%d",&i);
 
 	if(i==1){
 
