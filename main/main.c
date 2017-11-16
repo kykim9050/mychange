@@ -10,7 +10,7 @@ int main(){
 	scanf("%d",&i);
 
 	if(i==1){
-
+		void length();
 	}
 	else if(i==2){
 		void weight();
@@ -22,7 +22,7 @@ int main(){
 		void volume();
 	}
 	else if(i==5){
-
+		void temp();
 	}
 	else{
 		printf("wrong number\n");
