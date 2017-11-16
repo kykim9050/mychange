@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void temp()
+
 {
+
 int t;
 double c;
 
