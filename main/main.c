@@ -2,6 +2,9 @@
 #include "weight.h"
 #include "pressure.h"
 #include "volume.h"
+#include "length.h"
+#include "temp.h"
+
 
 int main(){
 	int i;
