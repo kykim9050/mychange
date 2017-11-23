@@ -8,5 +8,6 @@ volume.o: volume.c
 	gcc -c -g -I../include volume.c -o volume.o
 weight.o: weight.c
 	gcc -c -g -I../include weight.c -o weight.o
-
+clean:
+	rm -f *.o
 
