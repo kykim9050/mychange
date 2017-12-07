@@ -13,19 +13,19 @@ int main(){
 	scanf("%d",&i);
 
 	if(i==1){
-		void length();
+		 length();
 	}
 	else if(i==2){
-		void weight();
+		 weight();
 	}
 	else if(i==3){
-		void pressure();
+		 pressure();
 	}
 	else if(i==4){
-		void volume();
+		 volume();
 	}
 	else if(i==5){
-		void temp();
+		 temp();
 	}
 	else{
 		printf("wrong number\n");
